@@ -1,0 +1,8 @@
+pandas
+matplotlib
+sklearn
+seaborn
+xarray
+dask
+tensorflow
+netcdf4
