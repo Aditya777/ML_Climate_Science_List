@@ -1,7 +1,5 @@
 # e-GRIESHMA
 
-Repositories
-
 1. **The Toolkit for Extreme Climate Analysis:** https://github.com/LBL-EESA/TECA
 
 2. **GMD-Dueben Code:** [Dueben, Peter D., and Peter Bauer. "Challenges and design choices for global weather and climate models based on machine learning." Geoscientific Model Development 11.10 (2018): 3999-4009.](https://gmd.copernicus.org/articles/11/3999/2018/)
