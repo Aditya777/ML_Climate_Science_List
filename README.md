@@ -15,6 +15,9 @@
 4. **GMD-Scher Code:** [Scher, Sebastian, and Gabriele Messori. "Weather and climate forecasting with neural networks: using general circulation models (GCMs) with different complexity as a study ground." Geoscientific Model Development 12.7 (2019): 2797-2809.](https://gmd.copernicus.org/articles/12/2797/2019/gmd-12-2797-2019-discussion.html)
   * Pre-processing and Climate Simulation for PLASIM and PUMA
 
+5. Deep Learning Weather Prediction (DLWP): https://github.com/jweyn/DLWP
+6. DLWP using Cubed Sphere: https://github.com/jweyn/DLWP-CS 
+
 ## Datasets
 
 1. ERA5 Reanalysis Data: https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5
