@@ -18,3 +18,4 @@
 ## Datasets
 
 1. ERA5 Reanalysis Data: https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5
+2. Weatherbench: https://github.com/pangeo-data/WeatherBench
